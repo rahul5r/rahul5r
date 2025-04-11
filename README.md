@@ -4,15 +4,6 @@ I'm a passionate developer specializing in **computer vision**, **machine learni
 
 ---
 
-## 🛠️ Skills
-- **Programming**: Python, C, Java.
-- **Computer Vision**: OpenCV 📷, Mediapipe 🤖
-- **Machine Learning**: scikit-learn 🧠, TensorFlow/PyTorch 🔥
-- **Web Development**: Flask 🌐, HTML, CSS.
-- **Data Analysis**: pandas 🐼, numpy 🔢
-
----
-
 ## 🛠️ Tech Stack
 Here’s what I work with to build cool stuff:  
 | **Programming Languages** | 
