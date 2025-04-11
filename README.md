@@ -13,6 +13,17 @@ I'm a passionate developer specializing in **computer vision**, **machine learni
 
 ---
 
+## 🛠️ Tech Stack
+Here’s what I work with to build cool stuff:  
+- **Programming Languages**: Python 🐍, JavaScript 🌐  
+- **Computer Vision**: OpenCV 📷, Mediapipe 🤖  
+- **Machine Learning**: scikit-learn 🧠, TensorFlow 🔥, PyTorch ⚙️  
+- **Web Development**: Flask 🌐, HTML 📄, CSS 🎨, JavaScript 🚀  
+- **Data Analysis**: pandas 🐼, numpy 🔢  
+- **Tools**: Jupyter Notebook 📚, Git 🗃️
+
+---
+
 ## 🌟 Featured Projects
 Here are some projects I'm proud of:
 
