@@ -7,7 +7,7 @@ I'm Rahul, a curious developer who thrives on building innovative tools with **P
 ### 🚀 About Me
 - **Skills**: Python, Computer Vision, Machine Learning, API Integration, Gradio, Web Development  
 - **Interests**: Crafting intuitive interfaces, harnessing AI for real-world applications, and boosting productivity with code  
-- **Currently Learning**: Advanced computer vision techniques, new ML frameworks, and UI/UX enhancements  
+- **Currently Learning**: Advanced computer vision techniques, new ML and DL frameworks.
 
 ---
 
