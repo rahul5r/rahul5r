@@ -1,14 +1,14 @@
 # Hey there! 👋 I'm Rahul
 
-I'm a passionate developer specializing in **computer vision**, **machine learning**, and **web development**. I love creating tools that solve real-world problems, from gesture-based controls to medical imaging solutions. Recently, I secured **3rd place at the HaxLar8 hackathon** for my Multi Disease Detection Platform, which uses X-Ray images to detect diseases like Lung Cancer and Brain Tumor. My GitHub is where I share my journey—explore, star, or contribute to my projects below!
+I'm a passionate developer specializing in **computer vision**, **machine learning**, and **web development**. I love creating tools that solve real-world problems, from gesture-based controls to medical imaging productivity apps. 
 
 ---
 
 ## 🛠️ Skills
-- **Programming**: Python 🐍, JavaScript 🌐
+- **Programming**: Python, C, Java.
 - **Computer Vision**: OpenCV 📷, Mediapipe 🤖
 - **Machine Learning**: scikit-learn 🧠, TensorFlow/PyTorch 🔥
-- **Web Development**: Flask 🌐, HTML, CSS, JavaScript
+- **Web Development**: Flask 🌐, HTML, CSS.
 - **Data Analysis**: pandas 🐼, numpy 🔢
 
 ---
@@ -24,17 +24,17 @@ Here are some projects I'm proud of:
 - **[Eye Tracking Cursor Control System](https://github.com/rahul5r/Eye_Tracking_Cursor_Control_System)**  
   Navigate your screen using eye movements with Mediapipe’s face mesh.  
   - **Why It’s Cool**: Hands-free computing for accessibility.  
-  - **Tech Stack**: Python, Mediapipe, OpenCV
+  - **Tech Stack**: Python, Mediapipe, OpenCV, Flask
 
 - **[To-Do List App](https://github.com/rahul5r/To-Do-List-App)**  
   A simple web-based task management tool.  
   - **Why It’s Cool**: Boosts productivity with a clean interface.  
-  - **Tech Stack**: Python, Flask, HTML, CSS, JavaScript
+  - **Tech Stack**: Python, Flask, HTML, CSS.
 
 - **[ML-Models](https://github.com/rahul5r/ML-Models)**  
   A collection of machine learning models for various applications.  
   - **Why It’s Cool**: Educational resource for ML enthusiasts.  
-  - **Tech Stack**: Python, scikit-learn, pandas, Jupyter Notebook
+  - **Tech Stack**: Python, scikit-learn, pandas, Jupyter Notebook, TensorFlow.
 
 ---
 
@@ -45,8 +45,8 @@ Here are some projects I'm proud of:
 ---
 
 ## 📈 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul5r&show_icons=true&theme=radical)  
 ![Rahul's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul5r&theme=radical)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul5r&show_icons=true&theme=radical)  
 
 ---
 
