@@ -64,7 +64,7 @@ Here are some projects I'm proud of:
   - **Why It’s Cool**: Hands-free computing for accessibility.  
   - **Tech Stack**: Python, Mediapipe, OpenCV, Flask
 
-- **[To-Do List App]([https://github.com/rahul5r/To-Do-List-App](https://github.com/rahul5r/To-Do-List-Flask-App))**  
+- **[To-Do List App](https://github.com/rahul5r/To-Do-List-Flask-App)**  
   A simple web-based task management tool.  
   - **Why It’s Cool**: Boosts productivity with a clean interface.  
   - **Tech Stack**: Python, Flask, HTML, CSS.
