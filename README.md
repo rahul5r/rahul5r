@@ -83,11 +83,23 @@ Here are some projects I'm proud of:
 ---
 
 ## 📈 GitHub Stats
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul5r&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul5r&show_icons=true&theme=radical)   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul5r&layout=compact&theme=radical&border_radius=10&border_color=FF6F00" alt="Rahul's Top Languages"/>
-</p>
+<div align="center">
+  <p style="display: inline-block; margin-right: 20px;">
+    <a href="https://github.com/rahul5r" title="Check out my contribution streak!">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul5r&theme=radical&border=FF6F00&border_radius=10" alt="GitHub Streak" width="400"/>
+    </a>
+  </p>
+  <p style="display: inline-block;">
+    <a href="https://github.com/rahul5r" title="Explore my GitHub stats!">
+      <img src="https://github-readme-stats.vercel.app/api?username=rahul5r&show_icons=true&theme=radical&border=FF6F00&border_radius=10" alt="GitHub Stats" width="400"/>
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/rahul5r" title="See my top languages!">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul5r&layout=compact&theme=radical&border=FF6F00&border_radius=10" alt="Rahul's Top Languages" width="400"/>
+    </a>
+  </p>
+</div>
 
 ---
 
