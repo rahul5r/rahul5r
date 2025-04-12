@@ -28,7 +28,7 @@ I'm a passionate developer specializing in **computer vision**, **machine learni
 ---
 
 🌟 **Web Development** 🌟  
-| <a href="https://flask.palletsprojects.com/" title="Flask: Lightweight web apps"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a> | <a href="https://www.w3.org/html/" title="HTML5: Web structure"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a> | <a href="https://www.w3schools.com/css/" title="CSS3: Styling the web"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a> |
+| <a href="https://flask.palletsprojects.com/" title="Flask: Lightweight web apps"><img src="https://www.vhv.rs/dpng/d/609-6093398_prog-flask-flask-python-icon-png-transparent-png.png" alt="flask" width="40" height="40"/></a> | <a href="https://www.w3.org/html/" title="HTML5: Web structure"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a> | <a href="https://www.w3schools.com/css/" title="CSS3: Styling the web"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a> |
 |---|---|---|
 | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
