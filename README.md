@@ -6,40 +6,31 @@ I'm a passionate developer specializing in **computer vision**, **machine learni
 
 ## 🛠️ Tech Stack
 
-🌟 **Programming Languages** 🌟  
-| <a href="https://www.python.org" title="Python: My go-to for ML and vision!"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> | <a href="https://www.cprogramming.com/" title="C: Low-level power for performance"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> | <a href="https://www.java.com" title="Java: Robust and versatile"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> |
-|---|---|---|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow) | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) |
+Sure! Here's your reformatted **Tech Stack** section with the table removed and replaced by clean badge-style icons, just like your example:
 
+---
 
-🌟 **Computer Vision** 🌟  
-| <a href="https://opencv.org/" title="OpenCV: For gesture and eye tracking"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> | <a href="https://mediapipe.dev/" title="Mediapipe: Real-time vision magic"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="mediapipe" width="40" height="40"/></a> |
-|---|---|
-| ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Mediapipe](https://img.shields.io/badge/-Mediapipe-4285F4?style=flat-square&logo=google&logoColor=white) |
+## 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![Mediapipe](https://img.shields.io/badge/-Mediapipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![numpy](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🌟 **Machine Learning** 🌟  
-| <a href="https://scikit-learn.org/" title="scikit-learn: ML made simple"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> | <a href="https://www.tensorflow.org" title="TensorFlow: Deep learning powerhouse"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> | <a href="https://pytorch.org/" title="PyTorch: Flexible ML research"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> |
-|---|---|---|
-| ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+---
 
-
-🌟 **Web Development** 🌟  
-| <a href="https://flask.palletsprojects.com/" title="Flask: Lightweight web apps"><img src="https://www.vhv.rs/dpng/d/609-6093398_prog-flask-flask-python-icon-png-transparent-png.png" alt="flask" width="40" height="40"/></a> | <a href="https://www.w3.org/html/" title="HTML5: Web structure"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a> | <a href="https://www.w3schools.com/css/" title="CSS3: Styling the web"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a> |
-|---|---|---|
-| ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-
-
-🌟 **Data Analysis** 🌟  
-| <a href="https://pandas.pydata.org/" title="pandas: Data manipulation pro"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> | <a href="https://numpy.org/" title="numpy: Number crunching"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> |
-|---|---|
-| ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![numpy](https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=white) |
-
-
-🌟 **Tools** 🌟  
-| <a href="https://jupyter.org/" title="Jupyter: Interactive coding"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a> | <a href="https://git-scm.com/" title="Git: Version control"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> |
-|---|---|
-| ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+Let me know if you want these grouped in a single line, sorted, or styled differently!
 
 ---
 
