@@ -3,7 +3,6 @@
 I'm a passionate developer specializing in **computer vision**, **machine learning**, and **web development**. I love creating tools that solve real-world problems, from gesture-based controls to medical imaging productivity apps. 
 
 ---
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
