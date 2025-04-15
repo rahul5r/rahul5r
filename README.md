@@ -85,7 +85,7 @@ Here are some projects I'm proud of:
 </div>
 
 ---
-
+ 
 ## 📫 Let's Connect
 - **GitHub**: You're already here—explore my repos below!  
 - **LinkedIn**: [Rahul D V](http://linkedin.com/in/rahul-d-v-112286276)
