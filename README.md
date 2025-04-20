@@ -48,6 +48,11 @@ Here are some projects I'm proud of:
   - **Why It’s Cool**: Hands-free computing for accessibility.  
   - **Tech Stack**: Python, Mediapipe, OpenCV, Flask
 
+- **[Movie Recommendation System](https://github.com/rahul5r/movie-recommendation-system)**  
+  An end-to-end Movie Recommendation System web app that recommends movies based on content-based filtering.  
+  - **Why It’s Cool**: Recommends movies tailored to user preferences, making movie discovery easy and fun.  
+  - **Tech Stack**: Python, scikit-learn, Streamlit, TMDB 5000 Movies Dataset
+
 - **[To-Do List App](https://github.com/rahul5r/To-Do-List-Flask-App)**  
   A simple web-based task management tool.  
   - **Why It’s Cool**: Boosts productivity with a clean interface.  
