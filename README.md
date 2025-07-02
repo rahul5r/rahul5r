@@ -66,12 +66,6 @@ Here are some projects I'm proud of:
 
 ---
 
-## 🏆 Achievements
-- **1st Place at Hack4Mysore Hackathon**: Won for the innovative project *Youtube control using hand gestures*. 🚀
-- **3rd Place at HaxLar8 Hackathon**: Developed a Multi Disease Detection Platform using X-Ray images to detect Lung Cancer, Bone Fracture, Kidney Stone, and Brain Tumor. This project showcases my expertise in applying machine learning to medical imaging.
-
----
-
 ## 📈 GitHub Stats
 <div align="center">
   <p style="display: inline-block; margin-right: 20px;">
