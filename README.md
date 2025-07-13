@@ -90,6 +90,8 @@ Here are some projects I'm proud of:
 ## 📫 Let's Connect
 - **GitHub**: You're already here—explore my repos below!  
 - **LinkedIn**: [Rahul D V](http://linkedin.com/in/rahul-d-v-112286276)
+- **LeetCode**: [Rahul D V](https://leetcode.com/u/rahul5r/)
+- **GeeksForGeeks**: [Rahul D V](https://www.geeksforgeeks.org/user/rahul5r/)
 
 ---
 
